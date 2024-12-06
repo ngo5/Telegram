@@ -26,3 +26,8 @@
 
 ## 群组
 
+
+
+## 机器人
+
+[TGCN群组频道狐](https://t.me/zh_groups_bot)：频道群组索引
