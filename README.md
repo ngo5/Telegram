@@ -26,8 +26,16 @@
 
 ## 群组
 
-
+- [V2EX 交流群](https://t.me/V2EXPro)：V2EX非官方群
 
 ## 机器人
 
-[TGCN群组频道狐](https://t.me/zh_groups_bot)：频道群组索引
+- [TGCN群组频道狐](https://t.me/zh_groups_bot)：频道群组索引
+
+- [搜图酱](https://t.me/soutubot)：图片搜索
+
+------------
+
+[电报精品群组汇总](https://v2ex.com/t/1017423)
+
+[telegram 群组推荐](https://www.v2ex.com/t/554691)
