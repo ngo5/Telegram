@@ -34,7 +34,13 @@
 
 - [快乐星球 妹子图 收集器](https://t.me/botmzt)：正经美少女图片
 
-- [不求甚解](https://t.me/fakeye)：分享个人思考（无政治）
+- [不求甚解](https://t.me/fakeye)：分享个人思考（基本无政治）
+
+- [风向旗参考快讯](https://t.me/xhqcankao)：严肃新闻
+
+- [Newlearnerの自留地](https://t.me/NewlearnerChannel)：IT短资讯
+
+- [极客分享](https://t.me/geekshare)：分享网站和APP等
 
 ## 群组
 
