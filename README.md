@@ -22,7 +22,7 @@
 
 - [竹新社](https://t.me/tnews365 "竹新社")：推送严肃新闻，带出处
 
-- [呸，不要脸](https://t.me/pei1234 "呸，不要脸")：流量新闻
+- ❌[呸，不要脸](https://t.me/pei1234 "呸，不要脸")：流量新闻
 
 - [Telegram 中文频道](https://t.me/tgcnz "Telegram 中文频道")：主要方便第一次打开电报找汉化
 
@@ -42,7 +42,7 @@
 
 - [Newlearnerの自留地](https://t.me/NewlearnerChannel)：IT短资讯
 
-- [极客分享](https://t.me/geekshare)：分享网站和APP等
+- ❌[极客分享](https://t.me/geekshare)：分享网站和APP等
 
 - [少女实在是太美好了](https://t.me/tastegirl)：正经高质量美少女图片，更新频率低
 
