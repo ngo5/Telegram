@@ -58,6 +58,8 @@
 
 - [搜图酱](https://t.me/soutubot)：图片搜索
 
+- [音乐下载](https://t.me/music_v1bot)
+
 ------------
 
 [电报精品群组汇总](https://v2ex.com/t/1017423)
