@@ -12,7 +12,7 @@
 
 - [一个朋友](https://t.me/sxtnbhz "一个朋友")：免费机场推送
 
-- [Z-Library](https://t.me/zlib_china_official "Z-Library")：书籍下载中文官方
+- ~~[Z-Library](https://t.me/zlib_china_official "Z-Library")：书籍下载中文官方~~
 
 - [每日沙雕墙](https://t.me/woshadiao "每日沙雕墙")：娱乐
 
