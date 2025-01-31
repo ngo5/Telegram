@@ -16,7 +16,7 @@
 
 - [每日沙雕墙](https://t.me/woshadiao "每日沙雕墙")：娱乐
 
-- 🔞[汤不热精选Ace](https://t.me/tumblrAce "汤不热精选Ace")：成人视频
+- 🔞❌[汤不热精选Ace](https://t.me/tumblrAce "汤不热精选Ace")：成人视频
 
 - [Yummy](https://t.me/GodlyNews1 "Yummy")：推送科技数码类新闻
 
