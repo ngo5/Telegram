@@ -2,6 +2,10 @@
 
 ❌指后续发现赌博、成人APP、黑产等广告
 
+电报官方中文发布地址：https://translations.telegram.org/zh-hans/
+
+直接使用地址：https://t.me/setlanguage/zh-hans-beta
+
 ## 频道
 
 - 🔞[灵梦御所](https://t.me/lmys8 "灵梦御所")：GalGame游戏发布
