@@ -18,33 +18,37 @@
 
 - [每日沙雕墙](https://t.me/woshadiao "每日沙雕墙")：娱乐
 
-- 📰[Yummy](https://t.me/GodlyNews1 "Yummy")：推送科技数码类新闻
-
-- 📰[竹新社](https://t.me/tnews365 "竹新社")：推送严肃新闻，带出处
-
 - [Telegram 中文频道](https://t.me/tgcnz "Telegram 中文频道")：主要方便第一次打开电报找汉化
-
-- 📰[科技圈🎗在花频道](https://t.me/TestFlightCN)：科技新闻
-
-- 📰[Telo News](https://t.me/telonews_cn)：加密货币新闻
 
 - 🔞[白丝即正义](https://t.me/baisi)：美少女图片
 
 - [快乐星球 妹子图 收集器](https://t.me/botmzt)：正经美少女图片
 
-- [不求甚解](https://t.me/fakeye)：分享个人思考（基本无政治）
+- [不求甚解](https://t.me/fakeye)：分享个人思考，基本无政治
 
-- 📰[风向旗参考快讯](https://t.me/xhqcankao)：严肃新闻
-
-- 📰[Newlearnerの自留地](https://t.me/NewlearnerChannel)：IT短资讯
-
-- [少女实在是太美好了](https://t.me/tastegirl)：正经高质量美少女图片，更新频率低
+- [少女实在是太美好了](https://t.me/tastegirl)：正经美少女图片，更新频率低
 
 - 🔞[藏宝阁](https://t.me/cangbaogee)：成人视频
+
+- 📰[Yummy](https://t.me/GodlyNews1 "Yummy")：推送科技数码类新闻
+
+- 📰[竹新社](https://t.me/tnews365 "竹新社")：推送严肃新闻，带出处
+
+- 📰[科技圈🎗在花频道](https://t.me/TestFlightCN)：科技新闻
+
+- 📰[Telo News](https://t.me/telonews_cn)：加密货币新闻
 
 - 📰[LoopDNS资讯播报](https://t.me/DNSPODT)
 
 - 📰[VPS信号旗播报](https://t.me/vps_xhq)
+
+- 📰[Solidot](https://t.me/solidot)
+
+- 📰[蓝点网](https://t.me/landiansub)
+
+- 📰[风向旗参考快讯](https://t.me/xhqcankao)：严肃新闻
+
+- 📰[Newlearnerの自留地](https://t.me/NewlearnerChannel)：IT短资讯
 
 ## 群组
 
