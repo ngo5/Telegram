@@ -7,7 +7,7 @@
 
 ## 频道
 
-- 🔞[灵梦御所](https://t.me/lmys8 "灵梦御所")：GalGame游戏发布
+- 🔞[灵梦御所](https://t.me/lmys8 "灵梦御所")：GalGame游戏
 
 - [前女友们用过的机场](https://t.me/gebaopiCloud "前女友们用过的机场")：机场评测
 
