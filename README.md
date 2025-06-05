@@ -3,8 +3,7 @@
 发现赌博、成人APP、黑产等广告立马删除
 
 电报官方中文发布地址：https://translations.telegram.org/zh-hans/
-
-直接使用汉化地址：https://t.me/setlanguage/zh-hans-beta
+ - 汉化：https://t.me/setlanguage/zh-hans-beta
 
 ## 频道
 
