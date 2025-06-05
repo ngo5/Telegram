@@ -4,7 +4,7 @@
 
 电报官方中文发布地址：https://translations.telegram.org/zh-hans/
 
-直接使用地址：https://t.me/setlanguage/zh-hans-beta
+直接使用汉化地址：https://t.me/setlanguage/zh-hans-beta
 
 ## 频道
 
