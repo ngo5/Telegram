@@ -18,9 +18,9 @@
 
 - [每日沙雕墙](https://t.me/woshadiao "每日沙雕墙")：娱乐
 
-- [Telegram 中文频道](https://t.me/tgcnz "Telegram 中文频道")：主要方便第一次打开电报找汉化
+- [Telegram 中文频道](https://t.me/tgcnz "Telegram 中文频道")
 
-- 🔞[白丝即正义](https://t.me/baisi)：美少女图片
+- [白丝即正义](https://t.me/baisi)：美少女图片
 
 - [快乐星球 妹子图 收集器](https://t.me/botmzt)：正经美少女图片
 
@@ -29,6 +29,16 @@
 - [少女实在是太美好了](https://t.me/tastegirl)：正经美少女图片，更新频率低
 
 - 🔞[藏宝阁](https://t.me/cangbaogee)：成人视频
+
+- 🔞[整点好康的！](https://t.me/newzdhkd)：二次元
+
+- 🔞[宅次元同人馆NSFW](https://t.me/ciyuanb)
+
+- 🔞[学生反差自拍](https://t.me/cpg66)：有极搜机器人广告
+
+- 🔞[淫叔馆中转站『主频道』](https://t.me/galgameyesHCG)：GalGame CG鉴赏
+
+- 🔞[3D动漫原神鸣潮收藏](https://t.me/zhengjingr18)：有极搜机器人广告
 
 - 📰[Yummy](https://t.me/GodlyNews1 "Yummy")：推送科技数码类新闻
 
