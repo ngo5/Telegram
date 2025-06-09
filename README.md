@@ -63,6 +63,8 @@
 
 - [V2EX 交流群](https://t.me/V2EXPro)：V2EX非官方群
 
+- 频道关联群组
+
 ## 机器人
 
 - 🔞[搜书神器v2](https://t.me/sosdbot)：成人小说搜索
