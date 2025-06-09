@@ -6,38 +6,9 @@
  - 汉化：https://t.me/setlanguage/zh-hans-beta
 
 ## 频道
-
-- 🔞[灵梦御所](https://t.me/lmys8 "灵梦御所")：GalGame游戏
-
-- [前女友们用过的机场](https://t.me/gebaopiCloud "前女友们用过的机场")：机场评测
-
-- [Vtuber中之人](https://t.me/VTBs_irl "Vtuber中之人")：虚拟主播八卦
-
-- [一个朋友](https://t.me/sxtnbhz "一个朋友")：免费机场推送
-
-- [每日沙雕墙](https://t.me/woshadiao "每日沙雕墙")：娱乐
-
 - [Telegram 中文频道](https://t.me/tgcnz "Telegram 中文频道")
 
-- [白丝即正义](https://t.me/baisi)：美少女图片
-
-- [快乐星球 妹子图 收集器](https://t.me/botmzt)：正经美少女图片
-
-- [不求甚解](https://t.me/fakeye)：分享个人思考，基本无政治
-
-- [少女实在是太美好了](https://t.me/tastegirl)：正经美少女图片，更新频率低
-
-- 🔞[藏宝阁](https://t.me/cangbaogee)：成人视频
-
-- 🔞[整点好康的！](https://t.me/newzdhkd)：二次元
-
-- 🔞[宅次元同人馆NSFW](https://t.me/ciyuanb)
-
-- 🔞[学生反差自拍](https://t.me/cpg66)：有极搜机器人广告
-
-- 🔞[淫叔馆中转站『主频道』](https://t.me/galgameyesHCG)：GalGame CG鉴赏
-
-- 🔞[3D动漫原神鸣潮收藏](https://t.me/zhengjingr18)：有极搜机器人广告
+- [Vtuber中之人](https://t.me/VTBs_irl "Vtuber中之人")：虚拟主播八卦
 
 - 📰[Yummy](https://t.me/GodlyNews1 "Yummy")：推送科技数码类新闻
 
@@ -58,6 +29,35 @@
 - 📰[风向旗参考快讯](https://t.me/xhqcankao)：严肃新闻
 
 - 📰[Newlearnerの自留地](https://t.me/NewlearnerChannel)：IT短资讯
+
+- 🔞[灵梦御所](https://t.me/lmys8 "灵梦御所")：GalGame游戏
+
+- 🔞[藏宝阁](https://t.me/cangbaogee)：成人视频
+
+- 🔞[整点好康的！](https://t.me/newzdhkd)：二次元
+
+- 🔞[宅次元同人馆NSFW](https://t.me/ciyuanb)
+
+- 🔞[学生反差自拍](https://t.me/cpg66)：有极搜机器人广告
+
+- 🔞[淫叔馆中转站『主频道』](https://t.me/galgameyesHCG)：GalGame CG鉴赏
+
+- 🔞[3D动漫原神鸣潮收藏](https://t.me/zhengjingr18)：有极搜机器人广告
+
+- [前女友们用过的机场](https://t.me/gebaopiCloud "前女友们用过的机场")：机场评测
+
+- [一个朋友](https://t.me/sxtnbhz "一个朋友")：免费机场推送
+
+- [每日沙雕墙](https://t.me/woshadiao "每日沙雕墙")：娱乐
+
+- [白丝即正义](https://t.me/baisi)：美少女图片
+
+- [快乐星球 妹子图 收集器](https://t.me/botmzt)：正经美少女图片
+
+- [不求甚解](https://t.me/fakeye)：分享个人思考，基本无政治
+
+- [少女实在是太美好了](https://t.me/tastegirl)：正经美少女图片，更新频率低
+
 
 ## 群组
 
