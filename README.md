@@ -73,7 +73,7 @@
 
 - [音乐下载](https://t.me/music_v1bot)
 
-- [极搜](https://t.me/jiso)：有很多广告，但胜在搜东西
+- [极搜](https://t.me/jisou)：有很多广告，但胜在搜东西
 
 ------------
 
